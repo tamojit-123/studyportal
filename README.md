@@ -1,14 +1,15 @@
-# StudyMatrix ![book](https://user-images.githubusercontent.com/40804626/101893201-7490a080-3bca-11eb-8ef7-844284a69801.png)
+# StudyMatrix <img align="left" alt="firebase" width="26px" src="https://user-images.githubusercontent.com/40804626/101893201-7490a080-3bca-11eb-8ef7-844284a69801.png" />
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b7d6a434-0c42-49bf-820c-89d3ee2f09ac/deploy-status)](https://app.netlify.com/sites/studymatrix/deploys) [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
 # study-portal
-StudyMatrix™ May 2019 – Present  Project descriptionStudyMatrix™ is the trusted platform for education, learning, access books, videos, and questions. This webpage is made by StudyMatrix™'s Team (Tamojit Das, Shivam Ganguly, Saurav Samui, Sandip Mondal, and Sagnik Mahalder), StudyMatrix™ is home to students and learners. StudyMatrix™ provides traditional education, removing the barriers of cost, location, and access. Fulfilling the demands for students to learn on their own terms.
+StudyMatrix™ May 2019 – Present  Project descriptionStudyMatrix™ is the trusted platform for education, learning, access books, videos, and questions. This webpage is made by StudyMatrix™'s Team, StudyMatrix™ is home to students and learners. StudyMatrix™ provides traditional education, removing the barriers of cost, location, and access. Fulfilling the demands for students to learn on their own terms.
 
 This Website is built on Firebase and firebase real time database as backend and HTML, CSS, JavaScript framework as frontend with Google APIs.
 
 ### Languages and Tools used:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="firebase" width="26px" src="https://user-images.githubusercontent.com/40804626/101894065-9e969280-3bcb-11eb-8a87-e3a9b259e552.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -17,6 +18,7 @@ This Website is built on Firebase and firebase real time database as backend and
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+##
 website url : https://studymatrix.netlify.app/
 
 ## HOMEPAGE
