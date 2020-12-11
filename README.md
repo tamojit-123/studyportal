@@ -4,9 +4,5 @@ study portal website
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
-
-![Thumbnail of minimal](thumbnail.png)
-
 # study-portal
 StudyMatrix™ May 2019 – Present  Project descriptionStudyMatrix™ is the trusted platform for education, learning, access books, videos, and questions. This webpage is made by StudyMatrix™'s Team (Tamojit Das, Shivam Ganguly, Saurav Samui, Sandip Mondal, and Sagnik Mahalder), StudyMatrix™ is home to students and learners. StudyMatrix™ provides traditional education, removing the barriers of cost, location, and access. Fulfilling the demands for students to learn on their own terms.
