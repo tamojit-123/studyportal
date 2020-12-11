@@ -4,7 +4,9 @@
 # study-portal
 StudyMatrix™ May 2019 – Present  Project descriptionStudyMatrix™ is the trusted platform for education, learning, access books, videos, and questions. This webpage is made by StudyMatrix™'s Team (Tamojit Das, Shivam Ganguly, Saurav Samui, Sandip Mondal, and Sagnik Mahalder), StudyMatrix™ is home to students and learners. StudyMatrix™ provides traditional education, removing the barriers of cost, location, and access. Fulfilling the demands for students to learn on their own terms.
 
-##HOMEPAGE
+website url : https://studymatrix.netlify.app/
+
+## HOMEPAGE
 
 ![Screenshot 2020-09-15 203347](https://user-images.githubusercontent.com/40804626/101892022-d94afb80-3bc8-11eb-8569-7a42d1d142e8.png)
 
