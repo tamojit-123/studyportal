@@ -1,5 +1,5 @@
 # StudyMatrix <img alt="firebase" width="26px" src="https://user-images.githubusercontent.com/40804626/101893201-7490a080-3bca-11eb-8ef7-844284a69801.png" />
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b7d6a434-0c42-49bf-820c-89d3ee2f09ac/deploy-status)](https://app.netlify.com/sites/studymatrix/deploys) [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta) [![Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7d6a434-0c42-49bf-820c-89d3ee2f09ac/deploy-status)](https://app.netlify.com/sites/studymatrix/deploys) [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta) 
 
 # study-portal
 StudyMatrix™ May 2019 – Present  Project descriptionStudyMatrix™ is the trusted platform for education, learning, access books, videos, and questions. This webpage is made by StudyMatrix™'s Team, StudyMatrix™ is home to students and learners. StudyMatrix™ provides traditional education, removing the barriers of cost, location, and access. Fulfilling the demands for students to learn on their own terms.
