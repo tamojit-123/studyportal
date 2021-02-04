@@ -5,7 +5,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b7d6a434-0c42-49bf-820c-89d3ee2f09ac/deploy-status)](https://app.netlify.com/sites/studymatrix/deploys) [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta) 
 
 # study-portal
-StudyMatrix™ May 2019 – Present  Project description StudyMatrix™ is the trusted platform for education, learning, access books, videos, and questions. This webpage is made by StudyMatrix™'s Team, StudyMatrix™ is home to students and learners. StudyMatrix™ provides traditional education, removing the barriers of cost, location, and access. Fulfilling the demands for students to learn on their own terms.
+StudyMatrix™ May 2019 – Present StudyMatrix™ is the trusted platform for education, learning, access books, videos, and questions. This webpage is made by StudyMatrix™'s Team, StudyMatrix™ is home to students and learners. StudyMatrix™ provides traditional education, removing the barriers of cost, location, and access. Fulfilling the demands for students to learn on their own terms.
 
 This Website is built on Firebase and firebase real time database as backend and HTML, CSS, JavaScript framework as frontend with Google APIs.
 
